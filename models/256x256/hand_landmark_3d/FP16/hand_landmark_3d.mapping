@@ -1,0 +1,1535 @@
+<?xml version="1.0" ?>
+<mapping>
+	<map>
+		<framework name="activation_2" out_port_id="0"/>
+		<IR id="37" name="activation_2" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_21" out_port_id="0"/>
+		<IR id="230" name="conv2d_21" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_30" out_port_id="0"/>
+		<IR id="333" name="activation_30" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_38" out_port_id="0"/>
+		<IR id="402" name="conv2d_38" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_45/Kernel/read" out_port_id="0"/>
+		<IR id="470" name="conv2d_45/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_12" out_port_id="0"/>
+		<IR id="147" name="activation_12" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_29" out_port_id="0"/>
+		<IR id="323" name="activation_29" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_7/depthwise_conv2d" out_port_id="0"/>
+		<IR id="84" name="depthwise_conv2d_7/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_19/conv2d" out_port_id="0"/>
+		<IR id="208" name="conv2d_19/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_18/Kernel/read" out_port_id="0"/>
+		<IR id="203" name="1497514978_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_13" out_port_id="0"/>
+		<IR id="151" name="depthwise_conv2d_13" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_32/depthwise_conv2d" out_port_id="0"/>
+		<IR id="346" name="depthwise_conv2d_32/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_14/depthwise_conv2d" out_port_id="0"/>
+		<IR id="159" name="depthwise_conv2d_14/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_43/conv2d" out_port_id="0"/>
+		<IR id="451" name="conv2d_43/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_31/depthwise_conv2d" out_port_id="0"/>
+		<IR id="336" name="depthwise_conv2d_31/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_21" out_port_id="0"/>
+		<IR id="236" name="depthwise_conv2d_21" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_10/Kernel/read" out_port_id="0"/>
+		<IR id="107" name="conv2d_10/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_22" out_port_id="0"/>
+		<IR id="246" name="depthwise_conv2d_22" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_41/depthwise_conv2d" out_port_id="0"/>
+		<IR id="437" name="depthwise_conv2d_41/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_6/conv2d" out_port_id="0"/>
+		<IR id="68" name="conv2d_6/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_3/Kernel/read" out_port_id="0"/>
+		<IR id="38" name="1507115074_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_35/depthwise_conv2d" out_port_id="0"/>
+		<IR id="376" name="depthwise_conv2d_35/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="channel_padding_2" out_port_id="0"/>
+		<IR id="192" name="channel_padding_2" out_port_id="4"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_44/depthwise_conv2d" out_port_id="0"/>
+		<IR id="467" name="depthwise_conv2d_44/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_27/Kernel/read" out_port_id="0"/>
+		<IR id="288" name="conv2d_27/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_19/Kernel/read" out_port_id="0"/>
+		<IR id="213" name="1500315006_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_17/conv2d" out_port_id="0"/>
+		<IR id="183" name="conv2d_17/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_2/Kernel/read" out_port_id="0"/>
+		<IR id="22" name="conv2d_2/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="add_20" out_port_id="0"/>
+		<IR id="231" name="add_20" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_39/conv2d" out_port_id="0"/>
+		<IR id="411" name="conv2d_39/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_33/depthwise_conv2d" out_port_id="0"/>
+		<IR id="356" name="depthwise_conv2d_33/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_44" out_port_id="0"/>
+		<IR id="475" name="activation_44" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_25/Kernel/read" out_port_id="0"/>
+		<IR id="274" name="1502715030_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_31/Kernel/read" out_port_id="0"/>
+		<IR id="335" name="1500715010_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="add_41" out_port_id="0"/>
+		<IR id="444" name="add_41" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_23/conv2d" out_port_id="0"/>
+		<IR id="248" name="conv2d_23/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_2" out_port_id="0"/>
+		<IR id="25" name="conv2d_2" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_6" out_port_id="0"/>
+		<IR id="81" name="add_6" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_30" out_port_id="0"/>
+		<IR id="332" name="add_30" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_7" out_port_id="0"/>
+		<IR id="80" name="conv2d_7" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_41" out_port_id="0"/>
+		<IR id="433" name="conv2d_41" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_33/Kernel/read" out_port_id="0"/>
+		<IR id="355" name="1499915002_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_2" out_port_id="0"/>
+		<IR id="31" name="depthwise_conv2d_2" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_22/Kernel/read" out_port_id="0"/>
+		<IR id="237" name="conv2d_22/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_17/Kernel/read" out_port_id="0"/>
+		<IR id="193" name="1505515058_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_31/conv2d" out_port_id="0"/>
+		<IR id="329" name="conv2d_31/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_22" out_port_id="0"/>
+		<IR id="252" name="activation_22" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_20/Kernel/read" out_port_id="0"/>
+		<IR id="223" name="1509115094_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="add_8" out_port_id="0"/>
+		<IR id="101" name="add_8" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_36" out_port_id="0"/>
+		<IR id="393" name="add_36" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_2/conv2d" out_port_id="0"/>
+		<IR id="23" name="conv2d_2/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_27/Kernel/read" out_port_id="0"/>
+		<IR id="294" name="1496314966_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_10" out_port_id="0"/>
+		<IR id="110" name="conv2d_10" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_13" out_port_id="0"/>
+		<IR id="157" name="activation_13" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_18/depthwise_conv2d" out_port_id="0"/>
+		<IR id="204" name="depthwise_conv2d_18/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_35" out_port_id="0"/>
+		<IR id="372" name="conv2d_35" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_8" out_port_id="0"/>
+		<IR id="90" name="conv2d_8" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_5" out_port_id="0"/>
+		<IR id="72" name="activation_5" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="add_1" out_port_id="0"/>
+		<IR id="26" name="add_1" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_13/Kernel/read" out_port_id="0"/>
+		<IR id="148" name="1508715090_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="add_23" out_port_id="0"/>
+		<IR id="261" name="add_23" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_21" out_port_id="0"/>
+		<IR id="242" name="activation_21" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_28/conv2d" out_port_id="0"/>
+		<IR id="299" name="conv2d_28/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_42" out_port_id="0"/>
+		<IR id="443" name="conv2d_42" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_10/conv2d" out_port_id="0"/>
+		<IR id="108" name="conv2d_10/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_18" out_port_id="0"/>
+		<IR id="212" name="activation_18" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_24" out_port_id="0"/>
+		<IR id="273" name="activation_24" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d/Kernel/read" out_port_id="0"/>
+		<IR id="2" name="conv2d/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_9/Kernel/read" out_port_id="0"/>
+		<IR id="97" name="conv2d_9/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_38/conv2d" out_port_id="0"/>
+		<IR id="400" name="conv2d_38/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_27" out_port_id="0"/>
+		<IR id="303" name="activation_27" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_32" out_port_id="0"/>
+		<IR id="348" name="depthwise_conv2d_32" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_12/depthwise_conv2d" out_port_id="0"/>
+		<IR id="139" name="depthwise_conv2d_12/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_5" out_port_id="0"/>
+		<IR id="60" name="conv2d_5" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_7" out_port_id="0"/>
+		<IR id="86" name="depthwise_conv2d_7" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="output_handflag/shape" out_port_id="0"/>
+		<IR id="492" name="output_handflag/Cast_115532_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_14/conv2d" out_port_id="0"/>
+		<IR id="153" name="conv2d_14/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_21/Kernel/read" out_port_id="0"/>
+		<IR id="227" name="conv2d_21/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_19/Kernel/read" out_port_id="0"/>
+		<IR id="207" name="conv2d_19/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_1" out_port_id="0"/>
+		<IR id="27" name="activation_1" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_8/depthwise_conv2d" out_port_id="0"/>
+		<IR id="94" name="depthwise_conv2d_8/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_33" out_port_id="0"/>
+		<IR id="358" name="depthwise_conv2d_33" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_39" out_port_id="0"/>
+		<IR id="425" name="activation_39" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_41/Kernel/read" out_port_id="0"/>
+		<IR id="436" name="1504715050_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_28" out_port_id="0"/>
+		<IR id="307" name="depthwise_conv2d_28" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="channel_padding" out_port_id="0"/>
+		<IR id="52" name="channel_padding" out_port_id="4"/>
+	</map>
+	<map>
+		<framework name="activation_33" out_port_id="0"/>
+		<IR id="364" name="activation_33" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_14/Kernel/read" out_port_id="0"/>
+		<IR id="152" name="conv2d_14/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_33/Kernel/read" out_port_id="0"/>
+		<IR id="349" name="conv2d_33/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_16" out_port_id="0"/>
+		<IR id="175" name="conv2d_16" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_40" out_port_id="0"/>
+		<IR id="435" name="activation_40" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_4/Kernel/read" out_port_id="0"/>
+		<IR id="53" name="1505115054_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_16/conv2d" out_port_id="0"/>
+		<IR id="173" name="conv2d_16/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d/depthwise_conv2d" out_port_id="0"/>
+		<IR id="9" name="depthwise_conv2d/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_32" out_port_id="0"/>
+		<IR id="354" name="activation_32" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="max_pooling2d_4" out_port_id="0"/>
+		<IR id="334" name="max_pooling2d_4" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_37" out_port_id="0"/>
+		<IR id="404" name="activation_37" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="add_32" out_port_id="0"/>
+		<IR id="353" name="add_32" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_16" out_port_id="0"/>
+		<IR id="186" name="add_16" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_18" out_port_id="0"/>
+		<IR id="206" name="depthwise_conv2d_18" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_18" out_port_id="0"/>
+		<IR id="200" name="conv2d_18" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_21/Kernel/read" out_port_id="0"/>
+		<IR id="233" name="1497114974_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_30" out_port_id="0"/>
+		<IR id="327" name="depthwise_conv2d_30" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_33" out_port_id="0"/>
+		<IR id="363" name="add_33" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_40/depthwise_conv2d" out_port_id="0"/>
+		<IR id="427" name="depthwise_conv2d_40/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_1/depthwise_conv2d" out_port_id="0"/>
+		<IR id="19" name="depthwise_conv2d_1/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_9/Kernel/read" out_port_id="0"/>
+		<IR id="103" name="1501515018_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_13/Kernel/read" out_port_id="0"/>
+		<IR id="142" name="conv2d_13/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_43" out_port_id="0"/>
+		<IR id="459" name="depthwise_conv2d_43" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_27" out_port_id="0"/>
+		<IR id="297" name="depthwise_conv2d_27" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_24/Kernel/read" out_port_id="0"/>
+		<IR id="257" name="conv2d_24/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_14" out_port_id="0"/>
+		<IR id="161" name="depthwise_conv2d_14" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_29" out_port_id="0"/>
+		<IR id="322" name="add_29" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="max_pooling2d_3" out_port_id="0"/>
+		<IR id="263" name="max_pooling2d_3" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_26/conv2d" out_port_id="0"/>
+		<IR id="279" name="conv2d_26/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_44/conv2d" out_port_id="0"/>
+		<IR id="461" name="conv2d_44/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_25" out_port_id="0"/>
+		<IR id="283" name="activation_25" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_25/Kernel/read" out_port_id="0"/>
+		<IR id="268" name="conv2d_25/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_3" out_port_id="0"/>
+		<IR id="41" name="depthwise_conv2d_3" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv_handflag/conv2d" out_port_id="0"/>
+		<IR id="486" name="conv_handflag/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_43" out_port_id="0"/>
+		<IR id="464" name="add_43" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_18" out_port_id="0"/>
+		<IR id="211" name="add_18" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_22/Kernel/read" out_port_id="0"/>
+		<IR id="243" name="1510715110_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_5/Kernel/read" out_port_id="0"/>
+		<IR id="63" name="1505915062_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_17" out_port_id="0"/>
+		<IR id="196" name="depthwise_conv2d_17" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_28" out_port_id="0"/>
+		<IR id="301" name="conv2d_28" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_39" out_port_id="0"/>
+		<IR id="424" name="add_39" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_10" out_port_id="0"/>
+		<IR id="126" name="add_10" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_19/depthwise_conv2d" out_port_id="0"/>
+		<IR id="214" name="depthwise_conv2d_19/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_29" out_port_id="0"/>
+		<IR id="311" name="conv2d_29" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_26/Kernel/read" out_port_id="0"/>
+		<IR id="284" name="1507915082_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_21/depthwise_conv2d" out_port_id="0"/>
+		<IR id="234" name="depthwise_conv2d_21/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_29" out_port_id="0"/>
+		<IR id="317" name="depthwise_conv2d_29" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_10" out_port_id="0"/>
+		<IR id="121" name="depthwise_conv2d_10" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_37/Kernel/read" out_port_id="0"/>
+		<IR id="395" name="1506315066_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="channel_padding_1" out_port_id="0"/>
+		<IR id="117" name="channel_padding_1" out_port_id="4"/>
+	</map>
+	<map>
+		<framework name="add_13" out_port_id="0"/>
+		<IR id="156" name="add_13" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_25" out_port_id="0"/>
+		<IR id="282" name="add_25" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_9/depthwise_conv2d" out_port_id="0"/>
+		<IR id="104" name="depthwise_conv2d_9/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_5" out_port_id="0"/>
+		<IR id="71" name="add_5" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_22" out_port_id="0"/>
+		<IR id="240" name="conv2d_22" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_12" out_port_id="0"/>
+		<IR id="146" name="add_12" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_21" out_port_id="0"/>
+		<IR id="241" name="add_21" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation" out_port_id="0"/>
+		<IR id="17" name="activation" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_28" out_port_id="0"/>
+		<IR id="313" name="activation_28" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_30/Kernel/read" out_port_id="0"/>
+		<IR id="318" name="conv2d_30/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_28/Kernel/read" out_port_id="0"/>
+		<IR id="304" name="1503915042_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_34" out_port_id="0"/>
+		<IR id="374" name="activation_34" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_26" out_port_id="0"/>
+		<IR id="293" name="activation_26" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_34" out_port_id="0"/>
+		<IR id="368" name="depthwise_conv2d_34" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_40" out_port_id="0"/>
+		<IR id="423" name="conv2d_40" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_7" out_port_id="0"/>
+		<IR id="91" name="add_7" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_15" out_port_id="0"/>
+		<IR id="171" name="depthwise_conv2d_15" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_8/Kernel/read" out_port_id="0"/>
+		<IR id="87" name="conv2d_8/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="add_42" out_port_id="0"/>
+		<IR id="454" name="add_42" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_14/Kernel/read" out_port_id="0"/>
+		<IR id="158" name="1511915122_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_27/conv2d" out_port_id="0"/>
+		<IR id="289" name="conv2d_27/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_34/conv2d" out_port_id="0"/>
+		<IR id="360" name="conv2d_34/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_30/conv2d" out_port_id="0"/>
+		<IR id="319" name="conv2d_30/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_7/conv2d" out_port_id="0"/>
+		<IR id="78" name="conv2d_7/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_45/conv2d" out_port_id="0"/>
+		<IR id="471" name="conv2d_45/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_44/Kernel/read" out_port_id="0"/>
+		<IR id="460" name="conv2d_44/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_13" out_port_id="0"/>
+		<IR id="145" name="conv2d_13" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_42/Kernel/read" out_port_id="0"/>
+		<IR id="440" name="conv2d_42/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_23/depthwise_conv2d" out_port_id="0"/>
+		<IR id="254" name="depthwise_conv2d_23/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_5/depthwise_conv2d" out_port_id="0"/>
+		<IR id="64" name="depthwise_conv2d_5/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_35" out_port_id="0"/>
+		<IR id="383" name="add_35" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_26" out_port_id="0"/>
+		<IR id="281" name="conv2d_26" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_13/conv2d" out_port_id="0"/>
+		<IR id="143" name="conv2d_13/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_20" out_port_id="0"/>
+		<IR id="226" name="depthwise_conv2d_20" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_42" out_port_id="0"/>
+		<IR id="455" name="activation_42" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="add_17" out_port_id="0"/>
+		<IR id="201" name="add_17" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_41" out_port_id="0"/>
+		<IR id="439" name="depthwise_conv2d_41" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_40/Kernel/read" out_port_id="0"/>
+		<IR id="420" name="conv2d_40/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_32/conv2d" out_port_id="0"/>
+		<IR id="340" name="conv2d_32/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_38" out_port_id="0"/>
+		<IR id="414" name="add_38" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_32/Kernel/read" out_port_id="0"/>
+		<IR id="339" name="conv2d_32/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_30/Kernel/read" out_port_id="0"/>
+		<IR id="324" name="1509915102_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_6/depthwise_conv2d" out_port_id="0"/>
+		<IR id="74" name="depthwise_conv2d_6/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_36/conv2d" out_port_id="0"/>
+		<IR id="380" name="conv2d_36/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_4/Kernel/read" out_port_id="0"/>
+		<IR id="42" name="conv2d_4/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_1/Kernel/read" out_port_id="0"/>
+		<IR id="18" name="1503115034_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_2/depthwise_conv2d" out_port_id="0"/>
+		<IR id="29" name="depthwise_conv2d_2/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_4/depthwise_conv2d" out_port_id="0"/>
+		<IR id="54" name="depthwise_conv2d_4/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_29/conv2d" out_port_id="0"/>
+		<IR id="309" name="conv2d_29/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_34/Kernel/read" out_port_id="0"/>
+		<IR id="359" name="conv2d_34/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_37" out_port_id="0"/>
+		<IR id="392" name="conv2d_37" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_37" out_port_id="0"/>
+		<IR id="403" name="add_37" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_14" out_port_id="0"/>
+		<IR id="166" name="add_14" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_20/Kernel/read" out_port_id="0"/>
+		<IR id="217" name="conv2d_20/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_35/Kernel/read" out_port_id="0"/>
+		<IR id="369" name="conv2d_35/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_5" out_port_id="0"/>
+		<IR id="66" name="depthwise_conv2d_5" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_23" out_port_id="0"/>
+		<IR id="262" name="activation_23" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="p_re_lu/Maximum" out_port_id="0"/>
+		<IR id="7" name="p_re_lu/Maximum" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_3/depthwise_conv2d" out_port_id="0"/>
+		<IR id="39" name="depthwise_conv2d_3/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_10/Kernel/read" out_port_id="0"/>
+		<IR id="118" name="1512715130_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="add_44" out_port_id="0"/>
+		<IR id="474" name="add_44" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="convld_21_3d" out_port_id="0"/>
+		<IR id="481" name="convld_21_3d/Transpose" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_36" out_port_id="0"/>
+		<IR id="394" name="activation_36" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_20" out_port_id="0"/>
+		<IR id="220" name="conv2d_20" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_35/conv2d" out_port_id="0"/>
+		<IR id="370" name="conv2d_35/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_11/depthwise_conv2d" out_port_id="0"/>
+		<IR id="129" name="depthwise_conv2d_11/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_38" out_port_id="0"/>
+		<IR id="409" name="depthwise_conv2d_38" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_24/depthwise_conv2d" out_port_id="0"/>
+		<IR id="265" name="depthwise_conv2d_24/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_15/conv2d" out_port_id="0"/>
+		<IR id="163" name="conv2d_15/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_43/Kernel/read" out_port_id="0"/>
+		<IR id="456" name="1496714970_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_35" out_port_id="0"/>
+		<IR id="384" name="activation_35" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_37/Kernel/read" out_port_id="0"/>
+		<IR id="389" name="conv2d_37/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_4" out_port_id="0"/>
+		<IR id="45" name="conv2d_4" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_40" out_port_id="0"/>
+		<IR id="429" name="depthwise_conv2d_40" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_36/depthwise_conv2d" out_port_id="0"/>
+		<IR id="386" name="depthwise_conv2d_36/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_39/Kernel/read" out_port_id="0"/>
+		<IR id="410" name="conv2d_39/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_24" out_port_id="0"/>
+		<IR id="260" name="conv2d_24" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_32/Kernel/read" out_port_id="0"/>
+		<IR id="345" name="1509515098_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_11/conv2d" out_port_id="0"/>
+		<IR id="123" name="conv2d_11/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_26" out_port_id="0"/>
+		<IR id="292" name="add_26" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_24" out_port_id="0"/>
+		<IR id="267" name="depthwise_conv2d_24" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_23/Kernel/read" out_port_id="0"/>
+		<IR id="247" name="conv2d_23/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_36/Kernel/read" out_port_id="0"/>
+		<IR id="385" name="1501915022_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_36" out_port_id="0"/>
+		<IR id="382" name="conv2d_36" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_26" out_port_id="0"/>
+		<IR id="287" name="depthwise_conv2d_26" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_15/depthwise_conv2d" out_port_id="0"/>
+		<IR id="169" name="depthwise_conv2d_15/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="convld_21_3d/Kernel/read" out_port_id="0"/>
+		<IR id="476" name="convld_21_3d/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_31" out_port_id="0"/>
+		<IR id="344" name="activation_31" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_11" out_port_id="0"/>
+		<IR id="131" name="depthwise_conv2d_11" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_27" out_port_id="0"/>
+		<IR id="302" name="add_27" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_20/conv2d" out_port_id="0"/>
+		<IR id="218" name="conv2d_20/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_4" out_port_id="0"/>
+		<IR id="56" name="depthwise_conv2d_4" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_6" out_port_id="0"/>
+		<IR id="70" name="conv2d_6" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_34" out_port_id="0"/>
+		<IR id="362" name="conv2d_34" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_43/depthwise_conv2d" out_port_id="0"/>
+		<IR id="457" name="depthwise_conv2d_43/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_14" out_port_id="0"/>
+		<IR id="167" name="activation_14" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_35" out_port_id="0"/>
+		<IR id="378" name="depthwise_conv2d_35" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_25/conv2d" out_port_id="0"/>
+		<IR id="269" name="conv2d_25/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_31" out_port_id="0"/>
+		<IR id="343" name="add_31" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_16/Kernel/read" out_port_id="0"/>
+		<IR id="172" name="conv2d_16/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_44/Kernel/read" out_port_id="0"/>
+		<IR id="466" name="1495914962_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_8/Kernel/read" out_port_id="0"/>
+		<IR id="93" name="1499514998_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_8/conv2d" out_port_id="0"/>
+		<IR id="88" name="conv2d_8/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_3/conv2d" out_port_id="0"/>
+		<IR id="33" name="conv2d_3/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_30" out_port_id="0"/>
+		<IR id="321" name="conv2d_30" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_23" out_port_id="0"/>
+		<IR id="256" name="depthwise_conv2d_23" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_2" out_port_id="0"/>
+		<IR id="36" name="add_2" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_21/conv2d" out_port_id="0"/>
+		<IR id="228" name="conv2d_21/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_41" out_port_id="0"/>
+		<IR id="445" name="activation_41" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_6" out_port_id="0"/>
+		<IR id="82" name="activation_6" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="add_40" out_port_id="0"/>
+		<IR id="434" name="add_40" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_38" out_port_id="0"/>
+		<IR id="415" name="activation_38" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_42/conv2d" out_port_id="0"/>
+		<IR id="441" name="conv2d_42/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_31" out_port_id="0"/>
+		<IR id="338" name="depthwise_conv2d_31" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_3" out_port_id="0"/>
+		<IR id="46" name="add_3" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d/conv2d" out_port_id="0"/>
+		<IR id="3" name="conv2d/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_16/Kernel/read" out_port_id="0"/>
+		<IR id="178" name="1507515078_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d" out_port_id="0"/>
+		<IR id="5" name="conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_30/depthwise_conv2d" out_port_id="0"/>
+		<IR id="325" name="depthwise_conv2d_30/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_41/Kernel/read" out_port_id="0"/>
+		<IR id="430" name="conv2d_41/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_6/Kernel/read" out_port_id="0"/>
+		<IR id="67" name="conv2d_6/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_7/Kernel/read" out_port_id="0"/>
+		<IR id="83" name="1501115014_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d/Kernel/read" out_port_id="0"/>
+		<IR id="8" name="1512315126_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="max_pooling2d_5" out_port_id="0"/>
+		<IR id="405" name="max_pooling2d_5" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv_handflag" out_port_id="0"/>
+		<IR id="488" name="conv_handflag" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_1" out_port_id="0"/>
+		<IR id="15" name="conv2d_1" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_25" out_port_id="0"/>
+		<IR id="271" name="conv2d_25" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_10/depthwise_conv2d" out_port_id="0"/>
+		<IR id="119" name="depthwise_conv2d_10/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_38/Kernel/read" out_port_id="0"/>
+		<IR id="406" name="1504315046_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_20" out_port_id="0"/>
+		<IR id="232" name="activation_20" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_19" out_port_id="0"/>
+		<IR id="216" name="depthwise_conv2d_19" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_12/Kernel/read" out_port_id="0"/>
+		<IR id="132" name="conv2d_12/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="add_4" out_port_id="0"/>
+		<IR id="61" name="add_4" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_34" out_port_id="0"/>
+		<IR id="373" name="add_34" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_43" out_port_id="0"/>
+		<IR id="453" name="conv2d_43" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_12" out_port_id="0"/>
+		<IR id="141" name="depthwise_conv2d_12" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_19" out_port_id="0"/>
+		<IR id="222" name="activation_19" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_9" out_port_id="0"/>
+		<IR id="100" name="conv2d_9" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_5/Kernel/read" out_port_id="0"/>
+		<IR id="57" name="conv2d_5/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_27/depthwise_conv2d" out_port_id="0"/>
+		<IR id="295" name="depthwise_conv2d_27/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_11" out_port_id="0"/>
+		<IR id="125" name="conv2d_11" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_38/Kernel/read" out_port_id="0"/>
+		<IR id="399" name="conv2d_38/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_17" out_port_id="0"/>
+		<IR id="185" name="conv2d_17" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_38/depthwise_conv2d" out_port_id="0"/>
+		<IR id="407" name="depthwise_conv2d_38/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_handflag" out_port_id="0"/>
+		<IR id="491" name="activation_handflag/Transpose" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_7" out_port_id="0"/>
+		<IR id="92" name="activation_7" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_1/Kernel/read" out_port_id="0"/>
+		<IR id="12" name="conv2d_1/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_29/Kernel/read" out_port_id="0"/>
+		<IR id="314" name="1502315026_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_39" out_port_id="0"/>
+		<IR id="419" name="depthwise_conv2d_39" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_39/depthwise_conv2d" out_port_id="0"/>
+		<IR id="417" name="depthwise_conv2d_39/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_39" out_port_id="0"/>
+		<IR id="413" name="conv2d_39" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_12/conv2d" out_port_id="0"/>
+		<IR id="133" name="conv2d_12/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_15/Kernel/read" out_port_id="0"/>
+		<IR id="168" name="1510315106_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_29/depthwise_conv2d" out_port_id="0"/>
+		<IR id="315" name="depthwise_conv2d_29/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_16" out_port_id="0"/>
+		<IR id="181" name="depthwise_conv2d_16" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_15" out_port_id="0"/>
+		<IR id="177" name="activation_15" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="input_1" out_port_id="0"/>
+		<IR id="1" name="input_1" out_port_id="0"/>
+	</map>
+	<map>
+		<framework name="conv2d_18/Kernel/read" out_port_id="0"/>
+		<IR id="197" name="conv2d_18/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_15/Kernel/read" out_port_id="0"/>
+		<IR id="162" name="conv2d_15/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="p_re_lu/mul" out_port_id="0"/>
+		<IR id="6" name="p_re_lu/mul" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_16" out_port_id="0"/>
+		<IR id="187" name="activation_16" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_18/conv2d" out_port_id="0"/>
+		<IR id="198" name="conv2d_18/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_45" out_port_id="0"/>
+		<IR id="473" name="conv2d_45" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_4" out_port_id="0"/>
+		<IR id="62" name="activation_4" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_22/depthwise_conv2d" out_port_id="0"/>
+		<IR id="244" name="depthwise_conv2d_22/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_6" out_port_id="0"/>
+		<IR id="76" name="depthwise_conv2d_6" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_42/depthwise_conv2d" out_port_id="0"/>
+		<IR id="447" name="depthwise_conv2d_42/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_33/conv2d" out_port_id="0"/>
+		<IR id="350" name="conv2d_33/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_15" out_port_id="0"/>
+		<IR id="176" name="add_15" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_14" out_port_id="0"/>
+		<IR id="155" name="conv2d_14" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_22" out_port_id="0"/>
+		<IR id="251" name="add_22" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_42/Kernel/read" out_port_id="0"/>
+		<IR id="446" name="1498714990_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_3" out_port_id="0"/>
+		<IR id="47" name="activation_3" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_7/Kernel/read" out_port_id="0"/>
+		<IR id="77" name="conv2d_7/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_24/Kernel/read" out_port_id="0"/>
+		<IR id="264" name="1508315086_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_43/Kernel/read" out_port_id="0"/>
+		<IR id="450" name="conv2d_43/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="ld_21_3d/shape" out_port_id="0"/>
+		<IR id="482" name="ld_21_3d/Cast_115538_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_1" out_port_id="0"/>
+		<IR id="21" name="depthwise_conv2d_1" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_9" out_port_id="0"/>
+		<IR id="106" name="depthwise_conv2d_9" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_42" out_port_id="0"/>
+		<IR id="449" name="depthwise_conv2d_42" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_4/conv2d" out_port_id="0"/>
+		<IR id="43" name="conv2d_4/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add" out_port_id="0"/>
+		<IR id="16" name="add" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_37" out_port_id="0"/>
+		<IR id="398" name="depthwise_conv2d_37" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_19" out_port_id="0"/>
+		<IR id="210" name="conv2d_19" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_17/Kernel/read" out_port_id="0"/>
+		<IR id="182" name="conv2d_17/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="add_19" out_port_id="0"/>
+		<IR id="221" name="add_19" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_3/Kernel/read" out_port_id="0"/>
+		<IR id="32" name="conv2d_3/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_6/Kernel/read" out_port_id="0"/>
+		<IR id="73" name="1506715070_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_5/conv2d" out_port_id="0"/>
+		<IR id="58" name="conv2d_5/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_16/depthwise_conv2d" out_port_id="0"/>
+		<IR id="179" name="depthwise_conv2d_16/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_25/depthwise_conv2d" out_port_id="0"/>
+		<IR id="275" name="depthwise_conv2d_25/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_31/Kernel/read" out_port_id="0"/>
+		<IR id="328" name="conv2d_31/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="add_28" out_port_id="0"/>
+		<IR id="312" name="add_28" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_3" out_port_id="0"/>
+		<IR id="35" name="conv2d_3" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_10" out_port_id="0"/>
+		<IR id="127" name="activation_10" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_33" out_port_id="0"/>
+		<IR id="352" name="conv2d_33" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_9" out_port_id="0"/>
+		<IR id="112" name="activation_9" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_27" out_port_id="0"/>
+		<IR id="291" name="conv2d_27" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_37/depthwise_conv2d" out_port_id="0"/>
+		<IR id="396" name="depthwise_conv2d_37/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_35/Kernel/read" out_port_id="0"/>
+		<IR id="375" name="1499114994_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_40/Kernel/read" out_port_id="0"/>
+		<IR id="426" name="1511115114_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_31" out_port_id="0"/>
+		<IR id="331" name="conv2d_31" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_11/Kernel/read" out_port_id="0"/>
+		<IR id="122" name="conv2d_11/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_44" out_port_id="0"/>
+		<IR id="463" name="conv2d_44" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_8" out_port_id="0"/>
+		<IR id="96" name="depthwise_conv2d_8" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="activation_11" out_port_id="0"/>
+		<IR id="137" name="activation_11" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_20/depthwise_conv2d" out_port_id="0"/>
+		<IR id="224" name="depthwise_conv2d_20/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_36" out_port_id="0"/>
+		<IR id="388" name="depthwise_conv2d_36" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_22/conv2d" out_port_id="0"/>
+		<IR id="238" name="conv2d_22/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_44" out_port_id="0"/>
+		<IR id="469" name="depthwise_conv2d_44" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_17/depthwise_conv2d" out_port_id="0"/>
+		<IR id="194" name="depthwise_conv2d_17/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_13/depthwise_conv2d" out_port_id="0"/>
+		<IR id="149" name="depthwise_conv2d_13/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_36/Kernel/read" out_port_id="0"/>
+		<IR id="379" name="conv2d_36/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_8" out_port_id="0"/>
+		<IR id="102" name="activation_8" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_26/Kernel/read" out_port_id="0"/>
+		<IR id="278" name="conv2d_26/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="output_handflag" out_port_id="0"/>
+		<IR id="493" name="output_handflag" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d" out_port_id="0"/>
+		<IR id="11" name="depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_29/Kernel/read" out_port_id="0"/>
+		<IR id="308" name="conv2d_29/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_23/Kernel/read" out_port_id="0"/>
+		<IR id="253" name="1495514958_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_41/conv2d" out_port_id="0"/>
+		<IR id="431" name="conv2d_41/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_26/depthwise_conv2d" out_port_id="0"/>
+		<IR id="285" name="depthwise_conv2d_26/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_24/conv2d" out_port_id="0"/>
+		<IR id="258" name="conv2d_24/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="convld_21_3d/conv2d" out_port_id="0"/>
+		<IR id="477" name="convld_21_3d/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_2/Kernel/read" out_port_id="0"/>
+		<IR id="28" name="1511515118_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_17" out_port_id="0"/>
+		<IR id="202" name="activation_17" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_1/conv2d" out_port_id="0"/>
+		<IR id="13" name="conv2d_1/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv_handflag/Kernel/read" out_port_id="0"/>
+		<IR id="485" name="conv_handflag/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_34/Kernel/read" out_port_id="0"/>
+		<IR id="365" name="1498314986_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="activation_43" out_port_id="0"/>
+		<IR id="465" name="activation_43" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="conv2d_23" out_port_id="0"/>
+		<IR id="250" name="conv2d_23" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_12/Kernel/read" out_port_id="0"/>
+		<IR id="138" name="1503515038_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="ld_21_3d" out_port_id="0"/>
+		<IR id="483" name="ld_21_3d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_28/Kernel/read" out_port_id="0"/>
+		<IR id="298" name="conv2d_28/Kernel/read/Output_0/Data__const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="add_11" out_port_id="0"/>
+		<IR id="136" name="add_11" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_9" out_port_id="0"/>
+		<IR id="111" name="add_9" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="add_24" out_port_id="0"/>
+		<IR id="272" name="add_24" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_12" out_port_id="0"/>
+		<IR id="135" name="conv2d_12" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_28/depthwise_conv2d" out_port_id="0"/>
+		<IR id="305" name="depthwise_conv2d_28/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_40/conv2d" out_port_id="0"/>
+		<IR id="421" name="conv2d_40/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_9/conv2d" out_port_id="0"/>
+		<IR id="98" name="conv2d_9/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_39/Kernel/read" out_port_id="0"/>
+		<IR id="416" name="1495114954_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_11/Kernel/read" out_port_id="0"/>
+		<IR id="128" name="1497914982_const" out_port_id="1"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_25" out_port_id="0"/>
+		<IR id="277" name="depthwise_conv2d_25" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_37/conv2d" out_port_id="0"/>
+		<IR id="390" name="conv2d_37/conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="depthwise_conv2d_34/depthwise_conv2d" out_port_id="0"/>
+		<IR id="366" name="depthwise_conv2d_34/depthwise_conv2d" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_15" out_port_id="0"/>
+		<IR id="165" name="conv2d_15" out_port_id="2"/>
+	</map>
+	<map>
+		<framework name="conv2d_32" out_port_id="0"/>
+		<IR id="342" name="conv2d_32" out_port_id="2"/>
+	</map>
+</mapping>
